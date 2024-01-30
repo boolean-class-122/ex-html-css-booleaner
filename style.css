@@ -33,3 +33,21 @@ h1 {
 .photo-caption {
     font-size: 14px;
 }
+
+table {
+    border-collapse: collapse;
+    text-align: left;
+}
+
+thead {
+    background-color: #1faae5;
+    color: #ffffff;
+}
+
+.table-row {
+    background-color: #b0e4f2;
+}
+
+.cell-bigger {
+    width: 50%;
+}
