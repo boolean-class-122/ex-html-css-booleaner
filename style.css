@@ -8,3 +8,20 @@ header {
 .logo {
     height: 60px;
 }
+
+h1 {
+    font-size: 38px;
+}
+
+.author {
+    color: #808080;
+}
+
+.author-credit {
+    font-size: 18px;
+}
+
+.author-link {
+    color: #4da0fe;
+    text-decoration: none;
+}
