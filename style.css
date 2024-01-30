@@ -1,3 +1,8 @@
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
 header {
     background-color: #4da0fe;
     background-image: url('img/pattern.png');
