@@ -25,3 +25,11 @@ h1 {
     color: #4da0fe;
     text-decoration: none;
 }
+
+.article-photos {
+    margin-top: 20px;
+}
+
+.photo-caption {
+    font-size: 14px;
+}
